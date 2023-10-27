@@ -60,6 +60,8 @@ body{
     cursor: pointer;
     background-color: #444;
     color: #fff;
+    border: none;
+    outline: none;
 }
 
 .box button:hover{
